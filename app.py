@@ -252,3 +252,6 @@ AI Application using Deep Learning • Streamlit • OpenCV
 </p>
 </div>
 """, unsafe_allow_html=True)
+
+# ----------Completed----------
+
